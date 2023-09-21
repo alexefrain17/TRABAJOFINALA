@@ -118,10 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="6073873" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6073873.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="f6dbeb17951cb9d12c450eb26e42e484" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\f6dbeb17951cb9d12c450eb26e42e484.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="6073873" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\6073873.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="pngtree-logo-school-with-book-and-star-png-image_3982996" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-logo-school-with-book-and-star-png-image_3982996.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

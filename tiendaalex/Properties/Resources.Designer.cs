@@ -79,5 +79,15 @@ namespace TiendaGATO.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_logo_school_with_book_and_star_png_image_3982996 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-logo-school-with-book-and-star-png-image_3982996", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

@@ -41,14 +41,14 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(45, 197);
+            this.textBox1.Location = new System.Drawing.Point(12, 197);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(205, 20);
             this.textBox1.TabIndex = 1;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(45, 241);
+            this.textBox2.Location = new System.Drawing.Point(12, 241);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(205, 20);
             this.textBox2.TabIndex = 2;
@@ -57,7 +57,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(42, 176);
+            this.label1.Location = new System.Drawing.Point(12, 166);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(72, 18);
             this.label1.TabIndex = 3;
@@ -67,7 +67,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(42, 220);
+            this.label2.Location = new System.Drawing.Point(12, 220);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(100, 18);
             this.label2.TabIndex = 4;
@@ -75,7 +75,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(22, 295);
+            this.button1.Location = new System.Drawing.Point(21, 295);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(102, 37);
             this.button1.TabIndex = 5;
@@ -94,8 +94,8 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::TiendaGATO.Properties.Resources._6073873;
-            this.pictureBox1.Location = new System.Drawing.Point(77, 29);
+            this.pictureBox1.Image = global::TiendaGATO.Properties.Resources.pngtree_logo_school_with_book_and_star_png_image_3982996;
+            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(144, 132);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
